@@ -1,6 +1,8 @@
 <?php
 
-declare(strict_types=1);
+if(((int) phpversion()) >= 7) {
+  declare(strict_types=1);
+}
 
 namespace voku\helper;
 
