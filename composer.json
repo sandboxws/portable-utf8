@@ -1,5 +1,5 @@
 {
-  "name": "voku/portable-utf8",
+  "name": "sandboxws/portable-utf8",
   "description": "Portable UTF-8 library with polyfill / shim for Iconv, Intl, Mbstring, Normalizrer etc.",
   "keywords": [
     "php",
@@ -10,7 +10,7 @@
     "unicode"
   ],
   "type": "library",
-  "homepage": "https://github.com/voku/portable-utf8",
+  "homepage": "https://github.com/sandboxws/portable-utf8",
   "license": "(Apache-2.0 or GPL-2.0)",
   "authors": [
     {
